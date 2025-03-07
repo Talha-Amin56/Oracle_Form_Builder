@@ -44,6 +44,7 @@ This repository contains Oracle Forms and reports built with Oracle Forms Builde
 
 3. **Clone the Repository**
    - Clone the repository to your local machine using Git:
+   - 
    ```bash
    git clone https://github.com/yourusername/oracle-form-builder.git
 # Oracle_Form_Builder
