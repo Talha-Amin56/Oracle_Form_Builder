@@ -38,7 +38,6 @@ This repository contains Oracle Forms and reports built with Oracle Forms Builde
 
 
 
-
 2. **Set Up Your Oracle Database**
    - This project is built to interact with Oracle Database. You need to have access to an Oracle Database instance.
    - Update the **TNS** entries to connect your Forms to the database. You can modify the TNS entries in the `tnsnames.ora` file if needed.
